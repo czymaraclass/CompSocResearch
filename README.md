@@ -1,5 +1,5 @@
 
-# Research training I & II: Comparative Social Research with Multi-level Modelling in R
+# Comparative Social Research with Multi-level Modelling in R
 
 ### Course Description
 
