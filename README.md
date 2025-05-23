@@ -3,7 +3,7 @@
 
 ### Course Description
 
-Much of social science research explores how social contexts shape individual attitudes and behaviors. In comparative studies, *context* is often defined at the country level. For example: Does a nationalist campaigning reduce support for the welfare state? Why do people in some countries trust the police more than in others? Does income inequality lead to depression?
+Much of social science research explores how social contexts shape individual attitudes and behaviors. In comparative studies, *context* is often defined at the country level. For example: [Does a nationalist campaigning reduce support for the welfare state?](https://journals.sagepub.com/doi/abs/10.1177/0010414013488542) [Does the size of the national police force influence migrants’ trust in the police?](https://www-tandfonline-com.proxy-ub.rug.nl/doi/full/10.1080/01419870.2022.2060711#abstract) [Does income inequality lead to depression?](https://academic.oup.com/esr/article-abstract/31/4/477/496590)
 
 This course trains participants to conduct their own comparative analyses using data from the [European Social Survey](https://www.europeansocialsurvey.org/) (ESS) in R.
 
