@@ -3,11 +3,11 @@
 
 ### Course Description
 
-Social science research often deals with the influence of social contexts on the individual. In comparative research, context is often understood as the country. For example: Does a nationalist election campaign jeopardize support for the welfare state? Why do people in some countries trust the police more than in others? Does income inequality lead to depression?
+Much of social science research explores how social contexts shape individual attitudes and behaviors. In comparative studies, *context* is often defined at the country level—for example: Does a nationalist campaigning reduce support for the welfare state? Why do people in some countries trust the police more than in others? Does income inequality lead to depression?
 
-The course aims to provide students with the skills to carry out their own country comparison study. For this purpose, data from the European Social Survey (ESS) will be analyzed using the programming language R. *This is an advanced methods course - basic statistical knowledge, knowledge of data analysis (e.g. with R or Stata), and a general interest in quantitative research are required.* At the end of the course, students will conduct their own empirical-quantitative, country-comparative study in which they apply what they have learned during the semester to a topic of their choice.
+This course trains participants to conduct their own comparative analyses using data from the [European Social Survey](https://www.europeansocialsurvey.org/) (ESS) in R.
 
-This research training was originally conducted at Goethe University Frankfurt but is now openly accessible to anyone. Most sessions include a 90-minute lecture followed by a 90-minute exercise, ensuring a balanced blend of theoretical knowledge and practical application.
+This research training was originally taught at Goethe University Frankfurt but is now openly accessible to anyone. Most sessions combine a 90-minute lecture with a 90-minute hands-on tutorial.
 
 ### Sessions
 
